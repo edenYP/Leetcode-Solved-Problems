@@ -1,20 +1,17 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-    std::unordered_set<int> check;
+    std::unordered_set<int> seen;
 
-      for(const auto num : nums){
-        if(check.find(num) != check.end()){
-          return true;
+        for (int num : nums) {
+            if (seen.count(num)) {
+                return true;
+            }
+
+            seen.insert(num);
         }
-        else if(check.find(num) == check.end()){
-          check.insert(num);
-        }
-        
-      }
 
-
-      return false;
+        return false;
 
 
 
