@@ -1,18 +1,18 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-             std::unordered_map<int, int> check;
-      
-      for(int i = 0; i < nums.size(); i++){
-        if(check.find(nums[i]) == check.end()){
-          check[nums[i]] = check.count(nums[i]);
-        }
-        else if(check.find(nums[i]) != check.end()){
+    std::unordered_set<int> check;
+
+      for(const auto num : nums){
+        if(check.find(num) != check.end()){
           return true;
         }
-
-
+        else if(check.find(num) == check.end()){
+          check.insert(num);
+        }
+        
       }
+
 
       return false;
 
