@@ -2,20 +2,18 @@ class Solution {
 public:
     std::vector<int> twoSum(std::vector<int>& nums, int target) {
         std::unordered_map<int, int> unmap;
-        std::vector<int> result;
 
         for (int i = 0; i < nums.size(); i++) {
-            unmap[nums[i]] = i;
-        }
+            int num1 = nums[i];
+                int num2 = target - num1;
 
-        for (int i = 0; i < nums.size(); i++) {
-            if ((unmap.find(target - nums[i]) != unmap.end() && unmap[target - nums[i]] != i)) {
-                result.push_back(i);
+                if(unmap.find(num2) != unmap.end()){
+                        return {unmap[num2], i};
+                }
 
-                result.push_back(unmap[target - nums[i]]);
-                break;
+                unmap[num1] = i;
             }
+            return {-1, 1};
         }
-        return result;
-    }
-};
+        
+    };
