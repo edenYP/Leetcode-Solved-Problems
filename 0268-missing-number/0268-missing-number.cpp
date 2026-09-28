@@ -1,25 +1,15 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
+        int n = nums.size();
 
-        std::unordered_set<int> set;
+// calculate sum of n natural nums
+        int calculatedsum = n*(n+1)/2;
 
-        for(const auto x : nums){
-            set.insert(x);
+        int actualsum = 0;
+        for(int i = 0; i < n; i++){
+            actualsum+= nums[i];
         }
-
-        int i = 0;
-
-        for(i; i < nums.size(); i++){
-            if(set.find(i) == set.end()){
-                return i;
-            }
-        }
-
-            // to check i when it's value is set.size();
-        if(set.find(i) == set.end()){
-            return i;
-        }
-        return -1;
+        return (calculatedsum-actualsum);
     }
 };
