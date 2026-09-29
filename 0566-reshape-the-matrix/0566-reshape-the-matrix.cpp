@@ -2,36 +2,32 @@ class Solution {
 public:
     vector<vector<int>> matrixReshape(vector<vector<int>>& mat, int r, int c) {
 
-        if(r * c != mat.size() * mat[0].size()){
-            return mat;
-        }
+        if(r * c != mat.size() * mat[0].size()) return mat;
 
-        vector<vector<int>> transformed;
-        transformed.push_back({});
+        int m = mat.size();
+        int n = mat[0].size();
 
-        int totalcol = mat[0].size();
 
-        int a = 0;
-        int b = 0;
-        int d = 0;
+        std::vector<std::vector<int>> result(r, vector<int>(c));
 
-        for(int i = 0; i < r * c; i++){
+        int row = 0;
+        int col = 0;
 
-            transformed[a].push_back(mat[b][d]);
 
-            d++;
+        for(int i = 0; i < r ; i++){
+            for(int j = 0; j < c; j++){
+                result[i][j] = mat[row][col];   
+                col++;
 
-            if(d == totalcol){
-                d = 0;
-                b++;
-            }
+                if(col == n){
+                    col = 0;
+                    row++;
+                }
 
-            if(transformed[a].size() == c && a < r - 1){
-                a++;
-                transformed.push_back({});
             }
         }
 
-        return transformed;
+
+        return result;
     }
 };
