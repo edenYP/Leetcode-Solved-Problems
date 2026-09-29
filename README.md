@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0566-reshape-the-matrix) |
 | [1929-concatenation-of-array](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
