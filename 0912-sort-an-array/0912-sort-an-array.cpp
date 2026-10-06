@@ -1,62 +1,56 @@
-class Solution {
-public:
 
-    void merge(vector<int>& num, vector<int>& leftsub, vector<int>& rightsub, int low){
-        int left = 0; 
-        int right = 0;
+class Solution {
+
+    void merge(vector<int>& nums, vector<int>& temp, int low, int mid, int high) {
+        int left = low;
+        int right = mid + 1;
         int count = low;
 
-        while(left < leftsub.size() && right < rightsub.size()){
 
-            if(leftsub[left] <= rightsub[right]){
-                num[count++] = leftsub[left++];
+        while (left <= mid && right <= high) {
+
+            if (nums[left] <= nums[right]) {
+                temp[count++] = nums[left++];
+            } 
+            
+            else {
+                temp[count++] = nums[right++];
             }
 
-            else if(rightsub[right] < leftsub[left]){
-                num[count++] = rightsub[right++];
-            }
         }
 
-        while(left < leftsub.size()){
-            num[count++] = leftsub[left++];
+        while (left <= mid) {
+            temp[count++] = nums[left++];
         }
 
-        while(right < rightsub.size()){
-            num[count++] = rightsub[right++];
+        while (right <= high) {
+            temp[count++] = nums[right++];
         }
 
+        for (int i = low; i <= high; i++) {
+            nums[i] = temp[i];
+        }
     }
 
+    void mergesort(vector<int>& nums, vector<int>& temp, int low, int high) {
+        if (low >= high) return;
 
-    void mergesort(vector<int>& nums, int low, int high){
+        int mid = low + (high - low) / 2;
 
-        if(low >= high){
-            return;
-        }
+        mergesort(nums, temp, low, mid);
+        mergesort(nums, temp, mid + 1, high);
 
-
-        int mid = low + (high - low)/2;
-
-
-        mergesort(nums, low, mid);
-        mergesort(nums, mid + 1, high);
-
-        vector<int> leftsub;
-        vector<int> rightsub;
-
-        for(int i = low; i <= mid; i++){
-            leftsub.push_back(nums[i]);
-        }
-
-        for(int i = mid + 1; i <= high; i++){
-            rightsub.push_back(nums[i]);
-        }
-
-        merge(nums, leftsub, rightsub, low);
+        merge(nums, temp, low, mid, high);
     }
 
+public:
     vector<int> sortArray(vector<int>& nums) {
-        mergesort(nums, 0, nums.size() - 1);
+        if (nums.size() <= 1) return nums;
+
+        vector<int> temp(nums.size());
+        
+        mergesort(nums, temp, 0, nums.size() - 1);
+
         return nums;
     }
 };
