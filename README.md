@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0566-reshape-the-matrix) |
+| [0704-binary-search](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/1470-shuffle-the-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
