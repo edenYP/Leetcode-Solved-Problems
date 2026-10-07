@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0704-binary-search) |
