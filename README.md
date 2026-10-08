@@ -45,6 +45,7 @@ Collection of leetcode problems I have solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -59,6 +60,7 @@ Collection of leetcode problems I have solved.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
