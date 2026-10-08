@@ -9,6 +9,7 @@ Collection of leetcode problems I have solved.
 | [0001-two-sum](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -44,12 +45,14 @@ Collection of leetcode problems I have solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0704-binary-search) |
