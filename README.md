@@ -13,6 +13,7 @@ Collection of leetcode problems I have solved.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0566-reshape-the-matrix) |
@@ -49,6 +50,7 @@ Collection of leetcode problems I have solved.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
