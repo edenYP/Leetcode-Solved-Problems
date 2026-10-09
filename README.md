@@ -14,6 +14,7 @@ Collection of leetcode problems I have solved.
 | [0217-contains-duplicate](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0566-reshape-the-matrix) |
@@ -26,6 +27,7 @@ Collection of leetcode problems I have solved.
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -107,4 +109,8 @@ Collection of leetcode problems I have solved.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
