@@ -19,6 +19,7 @@ Collection of leetcode problems I have solved.
 | [0349-intersection-of-two-arrays](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0566-reshape-the-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
@@ -115,4 +116,8 @@ Collection of leetcode problems I have solved.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
