@@ -14,6 +14,7 @@ Collection of leetcode problems I have solved.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@ Collection of leetcode problems I have solved.
 | [0001-two-sum](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -49,6 +51,7 @@ Collection of leetcode problems I have solved.
 | ------- |
 | [0169-majority-element](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -118,6 +121,7 @@ Collection of leetcode problems I have solved.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0912-sort-an-array) |
 ## Design
 |  |
@@ -135,4 +139,5 @@ Collection of leetcode problems I have solved.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/edenYP/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
