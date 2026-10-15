@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int findMin(vector<int>& nums) {
+    int findMin(std::vector<int>& nums){
         int l = 0;
         int h = nums.size() - 1;
 
@@ -19,13 +19,12 @@ public:
             }
 
             // Right side is sorted.
-            else if (nums[m] < nums[h]) {
+            else{
                 h = m;
-                continue;
             }
         }
 
         // Only two elements remain.
-        return min(nums[l], nums[h]);
+        return std::min(nums[l], nums[h]);
     }
 };
